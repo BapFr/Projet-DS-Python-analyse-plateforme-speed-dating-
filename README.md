@@ -14,7 +14,7 @@ The project was both a technical and behavioral exploration: it combined statist
 - What are the key factors influencing the final decision of participants?
 - Are there systematic patterns in how people rate each other or decide to match?
 
-## 🗂Repository Structure
+## Repository Structure
 
 ### Final Notebook
 
